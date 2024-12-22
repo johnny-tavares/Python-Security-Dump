@@ -1,5 +1,6 @@
 .env
 myenv/
+__pychache__
 # Logs
 logs
 *.log
